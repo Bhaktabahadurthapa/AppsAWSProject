@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   parameter-store:
-    DOCKER_REGISTRY_USERNAME: /AppsAWSProject/docker-credentials/docker_url
+    DOCKER_REGISTRY_USERNAME: /AppsAWSProject/docker-credentials/username
     DOCKER_REGISTRY_PASSWORD: /AppsAWSProject/docker-credentials/password
     DOCKER_REGISTRY_URL: /AppsAWSProject/docker-credentials/docker_url
 phases:
